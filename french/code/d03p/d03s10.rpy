@@ -4,151 +4,151 @@
 translate french d03s10_c62dfeb9:
 
     # "Wednesday{w} Night"
-    "Wednesday{w} Night"
+    "Mercredi{w} En soirée"
 
 # game/code/d03p/d03s10.rpy:87
 translate french d03s10_17b543df:
 
     # mct "Wow this house is huge! Seems like I came to the right place!"
-    mct "Wow this house is huge! Seems like I came to the right place!"
+    mct "Wow cette maison est énorme! On dirait que je suis au bon endroit!"
 
 # game/code/d03p/d03s10.rpy:88
 translate french d03s10_a34ee9d0:
 
     # mct "There is a girl on the balcony..."
-    mct "There is a girl on the balcony..."
+    mct "Il y a une fille sur le balcon..."
 
 # game/code/d03p/d03s10.rpy:90
 translate french d03s10_7706dc90:
 
     # mct "Can't really see her from here..."
-    mct "Can't really see her from here..."
+    mct "Je ne peux pas vraiment la reconnaître d’ici..."
 
 # game/code/d03p/d03s10.rpy:94
 translate french d03s10_e88a5af1:
 
     # mc "Hey Pete! Girls!"
-    mc "Hey Pete! Girls!"
+    mc "Salut Pete! Les filles!"
 
 # game/code/d03p/d03s10.rpy:96
 translate french d03s10_0a2ab7e9:
 
     # pb "Hey [mcname]! Good to see you!"
-    pb "Hey [mcname]! Good to see you!"
+    pb "Salut [mcname]! C'est cool de te voir!"
 
 # game/code/d03p/d03s10.rpy:97
 translate french d03s10_53f6cdd1:
 
     # mc "Why are you here? Is it the right time?"
-    mc "Why are you here? Is it the right time?"
+    mc "Pourquoi vous êtes ici? On est à l'heure?"
 
 # game/code/d03p/d03s10.rpy:98
 translate french d03s10_b94f1c85:
 
     # pb "Sure, we're just trying masks on."
-    pb "Sure, we're just trying masks on."
+    pb "Bien sûr, on essaye juste nos masques."
 
 # game/code/d03p/d03s10.rpy:99
 translate french d03s10_720b1973:
 
     # mc "Masks?"
-    mc "Masks?"
+    mc "Vos masques?"
 
 # game/code/d03p/d03s10.rpy:101
 translate french d03s10_320fb916:
 
     # pb "Yea, dude, masks! Where is yours?"
-    pb "Yea, dude, masks! Where is yours?"
+    pb "Ouais, mec, nos masques! Où est le tien?"
 
 # game/code/d03p/d03s10.rpy:102
 translate french d03s10_cf357388:
 
     # mc "I also don't have one... {w}I had no idea I would need a mask..."
-    mc "I also don't have one... {w}I had no idea I would need a mask..."
+    mc "Je n’en ai pas non plus... {w}Je n’avais aucune idée qu'il fallait avoir un masque..."
 
 # game/code/d03p/d03s10.rpy:103
 translate french d03s10_179b96b2:
 
     # pb "Also? I have one! {w}Wait a sec."
-    pb "Also? I have one! {w}Wait a sec."
+    pb "Non plus? J’en ai un moi! {w}Attends une seconde."
 
 # game/code/d03p/d03s10.rpy:106
 translate french d03s10_d4aa2a9d:
 
     # pb "Here it is... It was written in the app that you should have one..."
-    pb "Here it is... It was written in the app that you should have one..."
+    pb "Le voilà... C'était écrit dans l'application qu'il en fallait un..."
 
 # game/code/d03p/d03s10.rpy:107
 translate french d03s10_07517e28:
 
     # mc "Fuck... I was so focused on getting points, that forgot to read about the party..."
-    mc "Fuck... I was so focused on getting points, that forgot to read about the party..."
+    mc "Merde... J’étais tellement concentré sur les points, que j’ai oublié de lire les infos sur la fête..."
 
 # game/code/d03p/d03s10.rpy:109
 translate french d03s10_d21ef634:
 
     # pb "Man... {w}this is a fiasco bro!"
-    pb "Man... {w}this is a fiasco bro!"
+    pb "Mec... {w}C'est un fiasco bro!"
 
 # game/code/d03p/d03s10.rpy:110
 translate french d03s10_744eb7b3:
 
     # pb "I do have one spare mask. I took several for girls to choose from..."
-    pb "I do have one spare mask. I took several for girls to choose from..."
+    pb "J’ai un masque de rechange. J’en ai pris plusieurs pour que les filles choisissent..."
 
 # game/code/d03p/d03s10.rpy:111
 translate french d03s10_f399b94b:
 
     # pb "Here take it."
-    pb "Here take it."
+    pb "Voilà, prends-le."
 
 # game/code/d03p/d03s10.rpy:113
 translate french d03s10_ee9decb7:
 
     # mc "Fuck, dude! Really?! Is there a worse mask than this one?"
-    mc "Fuck, dude! Really?! Is there a worse mask than this one?"
+    mc "Putain, mec! Sérieux?! Est-ce qu'il existe un masque pire que celui-là?"
 
 # game/code/d03p/d03s10.rpy:115
 translate french d03s10_46ba7bfc:
 
     # pb "Well you can take this one, or go and try to find a mask at this hour..."
-    pb "Well you can take this one, or go and try to find a mask at this hour..."
+    pb "Eh bien, soit tu prends celui-là, soit tu pars tenter de t'en trouver un. Mais à cette heure-là..."
 
 # game/code/d03p/d03s10.rpy:116
 translate french d03s10_e72c567b:
 
     # pb "I'm heading in! See you there!"
-    pb "I'm heading in! See you there!"
+    pb "J’y vais ! On se voit là-bas!"
 
 # game/code/d03p/d03s10.rpy:118
 translate french d03s10_c9b4fbe4:
 
     # mct "Arhhh... Fuck! Do I have any choice? I guess I don't..."
-    mct "Arhhh... Fuck! Do I have any choice? I guess I don't..."
+    mct "Arhhh... Putain! Est-ce que j'ai le choix? J'imagine que non..."
 
 # game/code/d03p/d03s10.rpy:128
 translate french d03s10_7e9a1259:
 
     # amfl "Welcome and Good evening, [mclogin]."
-    amfl "Welcome and Good evening, [mclogin]."
+    amfl "Bienvenue et bonsoir, [mclogin]."
 
 # game/code/d03p/d03s10.rpy:129
 translate french d03s10_7548a360:
 
     # mc "How did you...?"
-    mc "How did you...?"
+    mc "Comment as-tu...?"
 
 # game/code/d03p/d03s10.rpy:130
 translate french d03s10_58e6874c:
 
     # amfl "I am a master of the mystic arts!"
-    amfl "I am a master of the mystic arts!"
+    amfl "Je suis un maître des arts mystiques!"
 
 # game/code/d03p/d03s10.rpy:132
 translate french d03s10_cddce1d0:
 
     # amfl "And your phone told my device as you were walking up."
-    amfl "And your phone told my device as you were walking up."
+    amfl "Et ton téléphone a dit à mon appareil que tu étais en train de monter."
 
 # game/code/d03p/d03s10.rpy:134
 translate french d03s10_b8de06d3:
@@ -160,103 +160,103 @@ translate french d03s10_b8de06d3:
 translate french d03s10_32a8189c:
 
     # amfl "I shall be your host this evening, you may refer to me as Mr.D1cky."
-    amfl "I shall be your host this evening, you may refer to me as Mr.D1cky."
+    amfl "Je serai ton hôte ce soir, tu peux m’appeler Mr D1cky."
 
 # game/code/d03p/d03s10.rpy:137
 translate french d03s10_e49ce8f9:
 
     # amfl "Prepare yourself for a night of a thousand mysteries."
-    amfl "Prepare yourself for a night of a thousand mysteries."
+    amfl "Prépare-toi à une nuit de mille mystères."
 
 # game/code/d03p/d03s10.rpy:139
 translate french d03s10_b7808322:
 
     # amfl "You will be astounded, delighted and amazed."
-    amfl "You will be astounded, delighted and amazed."
+    amfl "Tu seras stupéfait, ravi et émerveillé."
 
 # game/code/d03p/d03s10.rpy:141
 translate french d03s10_38307646:
 
     # amfl "There are very few rules for this evening:"
-    amfl "There are very few rules for this evening:"
+    amfl "Il y a quelques petites règles à respecter pour ce soir:"
 
 # game/code/d03p/d03s10.rpy:143
 translate french d03s10_5963d66e:
 
     # amfl "What happens here, stays here. Do not speak of it beyond these walls."
-    amfl "What happens here, stays here. Do not speak of it beyond these walls."
+    amfl "Ce qui se passe ici, reste ici. N’en parle pas au-delà de ces murs."
 
 # game/code/d03p/d03s10.rpy:145
 translate french d03s10_b91173bc:
 
     # amfl "Clothing is optional, but please keep your mask on."
-    amfl "Clothing is optional, but please keep your mask on."
+    amfl "Les vêtements sont facultatifs, mais s'il te plaît garde ton masque.."
 
 # game/code/d03p/d03s10.rpy:147
 translate french d03s10_a01b5769:
 
     # amfl "Other than that, the final rule is the most important: Don't be a dick."
-    amfl "Other than that, the final rule is the most important: Don't be a dick."
+    amfl "Et enfin, la règle finale est la plus importante : ne sois pas un con."
 
 # game/code/d03p/d03s10.rpy:149
 translate french d03s10_cfdc7c3b:
 
     # amfl "Ah, Allison! Would you be so kind as to show [mclogin] around?"
-    amfl "Ah, Allison! Would you be so kind as to show [mclogin] around?"
+    amfl "Ah, Allison! Aurais-tu l’amabilité de montrer à [mclogin] les alentours?"
 
 # game/code/d03p/d03s10.rpy:150
 translate french d03s10_118f422c:
 
     # aw "Sure!"
-    aw "Sure!"
+    aw "Bien sûr!"
 
 # game/code/d03p/d03s10.rpy:152
 translate french d03s10_e019e109:
 
     # amfl "And I have more new guests to welcome!"
-    amfl "And I have more new guests to welcome!"
+    amfl "Et j’ai d’autres invités à accueillir!"
 
 # game/code/d03p/d03s10.rpy:154
 translate french d03s10_75a19217:
 
     # amfl "Wow! That is the right party dress! Welcome m'lady!"
-    amfl "Wow! That is the right party dress! Welcome m'lady!"
+    amfl "Wow! C’est la bonne robe de soirée! Bienvenue m’lady!"
 
 # game/code/d03p/d03s10.rpy:157
 translate french d03s10_d9d300ad:
 
     # mc "Damn..."
-    mc "Damn..."
+    mc "Bon sang..."
 
 # game/code/d03p/d03s10.rpy:159
 translate french d03s10_62e04796:
 
     # aw "See you, Daisy!"
-    aw "See you, Daisy!"
+    aw "A plus tard, Daisy!"
 
 # game/code/d03p/d03s10.rpy:161
 translate french d03s10_bfd61d97:
 
     # aw "Hi [mclogin]. Welcome to the party!"
-    aw "Hi [mclogin]. Welcome to the party!"
+    aw "Salut [mclogin]. Bienvenue à la fête!"
 
 # game/code/d03p/d03s10.rpy:163
 translate french d03s10_8300d083:
 
     # mc "Oh, hello. Thanks."
-    mc "Oh, hello. Thanks."
+    mc "Oh, Bonsoir. Merci."
 
 # game/code/d03p/d03s10.rpy:166
 translate french d03s10_65a89ce2:
 
     # aw "I'm Allison, just another guest here. You can usually find me around the pool."
-    aw "I'm Allison, just another guest here. You can usually find me around the pool."
+    aw "Je suis Allison, juste une autre invité ici. En général, tu peux me trouver autour de la piscine."
 
 # game/code/d03p/d03s10.rpy:169
 translate french d03s10_d05dd739:
 
     # mc "There's a pool? nice."
-    mc "There's a pool? nice."
+    mc "Il y a une piscine ? Sympa."
 
 # game/code/d03p/d03s10.rpy:172
 translate french d03s10_39914c38:
