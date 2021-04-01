@@ -4,175 +4,175 @@
 translate french d04s01_2ff326bf:
 
     # "Thursday"
-    "Thursday"
+    "Jeudi"
 
 # game/code/d04/d04s01.rpy:12
 translate french d04s01_b93cca61:
 
     # "09:30 AM"
-    "09:30 AM"
+    "09H30"
 
 # game/code/d04/d04s01.rpy:17
 translate french d04s01_32373938:
 
     # mct "Waking up next to Lydia... the perfect way to start a day."
-    mct "Waking up next to Lydia... the perfect way to start a day."
+    mct "Se réveiller à côté de Lydia... la façon parfaite de commencer une journée."
 
 # game/code/d04/d04s01.rpy:22
 translate french d04s01_7b66e4de:
 
     # mes "Good morning, sleepy heads."
-    mes "Good morning, sleepy heads."
+    mes "Bonjour, les marmottes."
 
 # game/code/d04/d04s01.rpy:24
 translate french d04s01_64a66dc3:
 
     # lc "Oh! Morning!"
-    lc "Oh! Morning!"
+    lc "Oh! Bonjour!"
 
 # game/code/d04/d04s01.rpy:26
 translate french d04s01_bc9aca56:
 
     # mes "Breakfast is ready. Get it while it is hot."
-    mes "Breakfast is ready. Get it while it is hot."
+    mes "Le petit déjeuner est servi. Venez le prendre tant qu’il est chaud."
 
 # game/code/d04/d04s01.rpy:27
 translate french d04s01_759a0756:
 
     # mc "Breakfast? Awesome, we'll be right there!"
-    mc "Breakfast? Awesome, we'll be right there!"
+    mc "Le petit déjeuner? Génial, on arrive!"
 
 # game/code/d04/d04s01.rpy:30
 translate french d04s01_45caec16:
 
     # mct "Lydia's still freshening up, but I don't need to wait for her."
-    mct "Lydia's still freshening up, but I don't need to wait for her."
+    mct "Lydia se rafraîchit encore, mais je n’ai pas besoin de l’attendre."
 
 # game/code/d04/d04s01.rpy:31
 translate french d04s01_d582dbe5:
 
     # mes "I got used to it by the end... but I'm really sore now!..."
-    mes "I got used to it by the end... but I'm really sore now!..."
+    mes "J'ai fini par m'y habituer à la fin... mais j'ai vraiment mal maintenant!..."
 
 # game/code/d04/d04s01.rpy:32
 translate french d04s01_852d6b52:
 
     # mc "Good morning, ladies."
-    mc "Good morning, ladies."
+    mc "Bonjour, Mesdemoiselles."
 
 # game/code/d04/d04s01.rpy:34
 translate french d04s01_c2ee3125:
 
     # mes "Morning!"
-    mes "Morning!"
+    mes "Bonjour!"
 
 # game/code/d04/d04s01.rpy:37
 translate french d04s01_2d7b7833:
 
     # aw "Hey there sexy!"
-    aw "Hey there sexy!"
+    aw "Hé là, sexy!"
 
 # game/code/d04/d04s01.rpy:38
 translate french d04s01_c9daa583:
 
     # mc "That is my line! Happy to meet you without the mask, Allison!"
-    mc "That is my line! Happy to meet you without the mask, Allison!"
+    mc "Ca c'est ma réplique normalement! Heureux de te rencontrer sans le masque, Allison!"
 
 # game/code/d04/d04s01.rpy:40
 translate french d04s01_5a556d1c:
 
     # aw "Hey there [mclogin]!"
-    aw "Hey there [mclogin]!"
+    aw "Salut [mclogin]!"
 
 # game/code/d04/d04s01.rpy:41
 translate french d04s01_bcdc037b:
 
     # mc "Hey there, is it still Allison?"
-    mc "Hey there, is it still Allison?"
+    mc "Salut, je dois toujours t'appeler Allison?"
 
 # game/code/d04/d04s01.rpy:42
 translate french d04s01_50e0e838:
 
     # aw "Absolutely!"
-    aw "Absolutely!"
+    aw "Absolument!"
 
 # game/code/d04/d04s01.rpy:43
 translate french d04s01_bcd46041:
 
     # mc "I'm [mcname]!"
-    mc "I'm [mcname]!"
+    mc "Je suis [mcname]!"
 
 # game/code/d04/d04s01.rpy:44
 translate french d04s01_09dcdb5f:
 
     # aw "Pleasure to meet you!"
-    aw "Pleasure to meet you!"
+    aw "C'est un plaisir de te rencontrer!"
 
 # game/code/d04/d04s01.rpy:46
 translate french d04s01_6965cc8e:
 
     # mes "Hey [mcname], you simply must tell me..."
-    mes "Hey [mcname], you simply must tell me..."
+    mes "Salut [mcname], tu dois simplement me dire..."
 
 # game/code/d04/d04s01.rpy:49
 translate french d04s01_99a437d9:
 
     # lc "Good morning!"
-    lc "Good morning!"
+    lc "Bonjour!"
 
 # game/code/d04/d04s01.rpy:50
 translate french d04s01_870d973f:
 
     # mes "Hey Lydia! How did you sleep last night?"
-    mes "Hey Lydia! How did you sleep last night?"
+    mes "Hey Lydia! Est-ce que tu as bien dormi la nuit dernière?"
 
 # game/code/d04/d04s01.rpy:52
 translate french d04s01_bd33587b:
 
     # lc "Good, great even... but now I'm super late for my class..."
-    lc "Good, great even... but now I'm super late for my class..."
+    lc "Bien, super même... mais maintenant je suis super en retard pour mes cours..."
 
 # game/code/d04/d04s01.rpy:54
 translate french d04s01_2d6152ef:
 
     # lc "I'll just grab some fruit and run."
-    lc "I'll just grab some fruit and run."
+    lc "Je vais juste prendre quelques fruits et m'échapper."
 
 # game/code/d04/d04s01.rpy:56
 translate french d04s01_90def862:
 
     # mc "Hey Lydia, would you like some coffee?"
-    mc "Hey Lydia, would you like some coffee?"
+    mc "Salut Lydia, tu veux un café?"
 
 # game/code/d04/d04s01.rpy:57
 translate french d04s01_57025c4c:
 
     # lc "Nah, I'm late enough already."
-    lc "Nah, I'm late enough already."
+    lc "Non, je suis déjà suffisamment en retard."
 
 # game/code/d04/d04s01.rpy:58
 translate french d04s01_61414f9a:
 
     # mc "No, I mean... Would you like to go get some coffee with me... later today?"
-    mc "No, I mean... Would you like to go get some coffee with me... later today?"
+    mc "Non, je veux dire... Est-ce que tu accepterais de venir prendre un café avec moi... plus tard dans la journée?"
 
 # game/code/d04/d04s01.rpy:60
 translate french d04s01_855e0f06:
 
     # lc "Where? Like at the cafeteria?"
-    lc "Where? Like at the cafeteria?"
+    lc "Où ça? A la cafétéria?"
 
 # game/code/d04/d04s01.rpy:61
 translate french d04s01_024b9e89:
 
     # mc "I know just the place. Do you know Nora's coffee house?"
-    mc "I know just the place. Do you know Nora's coffee house?"
+    mc "Je connais un endroit où il est excellent. Tu connais le café de Nora?"
 
 # game/code/d04/d04s01.rpy:62
 translate french d04s01_25a272c3:
 
     # lc "I haven't been there... {w}I think I know where it is, though."
-    lc "I haven't been there... {w}I think I know where it is, though."
+    lc "Je n'y suis jamais allé... {w}Je pense que je sais où il se trouve cependant."
 
 # game/code/d04/d04s01.rpy:63
 translate french d04s01_3445ea40:
